@@ -58,7 +58,7 @@
 
           <li class="drop-down"><a href="#">Dons</a>
             <ul>
-              <li><a href="Allodons.php">Allodons </a></li>
+              <li><a href="Allodons.php">Allodons</a></li>
               <li><a href="CarteBancaire.php">Paiement Carte Bancaire </a></li>     
             </ul>
           </li>

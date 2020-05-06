@@ -13,7 +13,7 @@
   // pour l'affichage (appel des vues)
   include($repVues."entete.php") ;
   include($repVues."menu.php") ;
-  include($repVues."vAccueil.php");
+  include($repVues."vCarteBancaire.php");
   include($repVues."pied.php") ;
   ?>
     
