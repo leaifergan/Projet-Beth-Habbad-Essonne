@@ -1,1 +1,0 @@
-<p>Il faudra mettre le lien allodons directement dans le menu puis supprimer les fichiers Allodons.php et vAllodons.php :)</p>
