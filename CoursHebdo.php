@@ -5,11 +5,8 @@
  * @todo  RAS
  */
  
-  $repInclude = './include/';
   $repVues = './vues/';
   
-  require($repInclude . "_init.inc.php");
- 
  
   // Construction de la page Rechercher
   // pour l'affichage (appel des vues)
