@@ -58,7 +58,11 @@
 
           <li class="drop-down"><a href="#">Dons</a>
             <ul>
+<<<<<<< HEAD
               <li><a href="Allodons.php">Allodons</a></li>
+=======
+              <li><a href="Allodons.php">Allodons </a></li>
+>>>>>>> 8977dc0c2a7cb79e40bba9dbe1d23cca8ff27048
               <li><a href="CarteBancaire.php">Paiement Carte Bancaire </a></li>     
             </ul>
           </li>
