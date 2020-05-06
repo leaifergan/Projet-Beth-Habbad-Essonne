@@ -4,11 +4,10 @@
  * @package default
  * @todo  RAS
  */
- 
-  $repInclude = './include/';
+
   $repVues = './vues/';
   
-  require($repInclude . "_init.inc.php");
+
  
  
   // Construction de la page Rechercher
