@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
   <main id="main">
 
@@ -87,7 +86,7 @@
     </section><!-- End Contact Section -->
 
   </main><!-- End #main -->
-=======
+
 
   <main id="main">
 
@@ -176,4 +175,3 @@
     </section><!-- End Contact Section -->
 
   </main><!-- End #main -->
->>>>>>> 8977dc0c2a7cb79e40bba9dbe1d23cca8ff27048
