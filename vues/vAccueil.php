@@ -9,23 +9,26 @@
         <div class="carousel-inner" role="listbox">
 
           <!-- Slide 1 -->
-          <div class="carousel-item active" style="background: url(assets/img/slide/farbrenguen.jpg)">
+          <div class="carousel-item active" style="background: url(assets/img/slide/Rabbi.jpg)">
             <div class="carousel-container">
-              <div class="carousel-content">
-                <h2 class="animated fadeInDown">Welcome to <span>Eterna</span></h2>
-                <p class="animated fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-                <a href="" class="btn-get-started animated fadeInUp">Read More</a>
+              <div class="carousel-content"> 
+                <h2 class="animated fadeInDown">Beth Habad <span>Essonne Sud</span></h2>
+               <!-- <p class="animated fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p> -->
+               <div class="portfolio-links">
+                <a href="assets/img/Affiches/WhatsApp Image 2020-05-04 at 19.12.10.jpeg" class="venobox">Voir les prochaines activités</a>
+                <a href="assets/img/Affiches/WhatsApp Image 2020-05-04 at 19.12.10.jpeg" data-gall="portfolioGallery" class="venobox"> Essai </a>
+              </div>
               </div>
             </div>
           </div>
 
           <!-- Slide 2 -->
-          <div class="carousel-item" style="background: url(assets/img/slide/slide-2.jpg)">
+          <div class="carousel-item" style="background: url(assets/img/slide/Cteen.jpg)">
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animated fadeInDown">Lorem <span>Ipsum Dolor</span></h2>
-                <p class="animated fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-                <a href="" class="btn-get-started animated fadeInUp">Read More</a>
+                <h2 class="animated fadeInDown"> Rejoinds <span>Cteen Essonne Sud !</span></h2>
+                <p class="animated fadeInUp">Apprendre sur soi en donnant aux autres, entrer dans un groupe d’amis partageant la même foi, ensemble se concentrer sur les valeurs positives, pour un développement personnel réussi. Une belle ambition : Cteen en propose le cadre.</p>
+                <a href="" class="btn-get-started animated fadeInUp"> Voir les prochaines activités Cteen</a>
               </div>
             </div>
           </div>
@@ -40,7 +43,6 @@
               </div>
             </div>
           </div>
-
         </div>
 
         <a class="carousel-control-prev" href="#heroCarousel" role="button" data-slide="prev">
@@ -60,7 +62,7 @@
   <main id="main">
 
     <!-- ======= Featured Section ======= -->
-    <section id="featured" class="featured">
+ <!--   <section id="featured" class="featured">
       <div class="container">
 
         <div class="row">
@@ -87,10 +89,10 @@
           </div>
         </div>
 
-      </div>
-    </section><!-- End Featured Section -->
+      </div>  -->
+  <!--  </section> End Featured Section --> 
 
-    <!-- ======= About Section ======= -->
+    <!-- ======= About Section ======= 
     <section id="about" class="about">
       <div class="container">
 
@@ -117,11 +119,162 @@
           </div>
         </div>
 
+      </div>-->
+<!--     </section>End About Section -->
+
+<section id="portfolio" class="portfolio">
+      <div class="container">
+        <br>
+      <div class="text-center">
+        <h1 class="display-3" > Nos services</h1> <br>
       </div>
-    </section><!-- End About Section -->
+        <div class="row">
+          <div class="col-lg-12 d-flex justify-content-center">
+            <ul id="portfolio-flters">
+              <li data-filter="*" class="filter-active"> Tous les services  </li>
+              <li data-filter=".filter-fetesjuives"> Fêtes Juives </li>
+              <li data-filter=".filter-enfant&Ados"> Enfants & Ados </li>
+              <li data-filter=".filter-etudiants"> Etudiants </li>
+              <li data-filter=".filter-autres"> Autres </li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="row portfolio-container">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-autres">
+            <div class="portfolio-wrap">
+              <img src="assets/img/Services/Téfiline.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Vérification Tefilin & Mézouzot </h4>
+                <p>Autres</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/Services/ExplicationTéfiline.jpeg"  class="venobox" title="Vérification Tefilin & Mézouzot"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/Services/Méguila.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Pourim: Lectures de Meguila & Distribution de Michloah Manot</h4>
+                <p>Fêtes Juives</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/Services/ExplicationMéguila.png" class="venobox" title="Fêtes Juives"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>App 2</h4>
+                <p>App</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Card 2</h4>
+                <p>Card</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Web 2</h4>
+                <p>Web</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>App 3</h4>
+                <p>App</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Card 1</h4>
+                <p>Card</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/portfolio-7.jpg" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Card 3</h4>
+                <p>Card</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/portfolio-8.jpg" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Web 3</h4>
+                <p>Web</p>
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Portfolio Section -->
 
     <!-- ======= Services Section ======= -->
-    <section id="services" class="services">
+   <!-- <section id="services" class="services">
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
@@ -179,11 +332,11 @@
 
         </div>
 
-      </div>
-    </section><!-- End Services Section -->
+      </div> -->
+  <!--  </section> End Services Section -->
 
     <!-- ======= Clients Section ======= -->
-    <section id="clients" class="clients">
+  <!--   <section id="clients" class="clients">
       <div class="container">
 
         <div class="section-title">
@@ -203,6 +356,6 @@
         </div>
 
       </div>
-    </section><!-- End Clients Section -->
+    </section> --> <!-- End Clients Section -->
 
   </main><!-- End #main -->
