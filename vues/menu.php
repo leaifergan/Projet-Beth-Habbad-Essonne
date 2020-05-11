@@ -21,7 +21,7 @@
     <div class="container d-flex">
 
       <div>
-       <img src="assets/img/logo.png"> 
+       <a href="Accueil.php"><img src="assets/img/logo.png"></a>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
@@ -51,18 +51,13 @@
            <li class="drop-down"><a href="#">Etudiants</a>
             <ul>
               <li><a href="ActivitesEtudiants.php">Activités</a></li>
-              <li><a href="Contact.php">Prêts</a></li>         
+              <li><a href="Prets.php">Prêts</a></li>         
             </ul>
           </li>
 
            <li class=""><a href="Contact.php">Visiter une personne</a></li>
 
-          <li class="drop-down"><a href="#">Faire un don</a>
-            <ul>
-
-              <li><a href="Allodons.php">Allodons</a></li>
-              <li><a href="CarteBancaire.php">Paiement Carte Bancaire </a></li>     
-            </ul>
+          <li class=""><a href="CarteBancaire.php">Faire un don</a>
           </li>
 
           <li class=""><a href="Contact.php">Contact</a></li>

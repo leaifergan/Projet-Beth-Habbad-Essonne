@@ -15,8 +15,7 @@
                 <h2 class="animated fadeInDown">Beth Habad <span>Essonne Sud</span></h2>
                <!-- <p class="animated fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p> -->
                <div class="portfolio-links">
-                <a href="assets/img/Affiches/WhatsApp Image 2020-05-04 at 19.12.10.jpeg" class="venobox">Voir les prochaines activités</a>
-                <a href="assets/img/Affiches/WhatsApp Image 2020-05-04 at 19.12.10.jpeg" data-gall="portfolioGallery" class="venobox"> Essai </a>
+                <a href="assets/img/Affiches/WhatsApp Image 2020-05-04 at 19.12.10.jpeg" class="venobox btn-get-started animated fadeInUp">Voir les prochaines activités</a>
               </div>
               </div>
             </div>
@@ -133,7 +132,7 @@
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active"> Tous les services  </li>
               <li data-filter=".filter-fetesjuives"> Fêtes Juives </li>
-              <li data-filter=".filter-enfant&Ados"> Enfants & Ados </li>
+              <li data-filter=".filter-enfantAdos"> Enfants & Ados </li>
               <li data-filter=".filter-etudiants"> Etudiants </li>
               <li data-filter=".filter-autres"> Autres </li>
             </ul>
@@ -142,56 +141,56 @@
 
         <div class="row portfolio-container">
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-autres">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-etudiants">
             <div class="portfolio-wrap">
               <img src="assets/img/Services/Téfiline.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Vérification Tefilin & Mézouzot </h4>
-                <p>Autres</p>
+                <h4>Vérification Téfilin & Mézouzot </h4>
+                <p>Etudiants</p>
                 <div class="portfolio-links">
                   <a href="assets/img/Services/ExplicationTéfiline.jpeg"  class="venobox" title="Vérification Tefilin & Mézouzot"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="Contact.php" title="Nous Contacter"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-fetesjuives">
             <div class="portfolio-wrap">
               <img src="assets/img/Services/Méguila.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Pourim: Lectures de Meguila & Distribution de Michloah Manot</h4>
                 <p>Fêtes Juives</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/Services/ExplicationMéguila.png" class="venobox" title="Fêtes Juives"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="assets/img/Services/ExplicationMéguila.png" class="venobox" title="Voir Plus"><i class="bx bx-plus"></i></a>
+                  <a href="Contact.php" title="Nous Contacter"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-fetesjuives">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+              <img src="assets/img/Services/Shofar.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>App 2</h4>
-                <p>App</p>
+                <h4>Roch Hachana: Sonnerie Du Shofar à Domicile</h4>
+                <p>Fêtes Juives</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="assets/img/Services/ExplicationShofar.png" data-gall="portfolioGallery" class="venobox" title="Voir Plus"><i class="bx bx-plus"></i></a>
+                  <a href="Contact.php" title="Nous Contacter"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-enfantAdos">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+              <img src="assets/img/Services/Cteen.png" class="img-fluid" alt="">
               <div class="portfolio-info">
-                <h4>Card 2</h4>
-                <p>Card</p>
+                <h4>Cteen</h4>
+                <p>Activité</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox" title="Voir Plus"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
