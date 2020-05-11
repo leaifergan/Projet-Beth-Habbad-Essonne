@@ -20,11 +20,12 @@
   <header id="header">
     <div class="container d-flex">
 
-      <div class="logo mr-auto">
-        <h1 class="text-light"><a href="Accueil.php"><span>Beth Habbad Essonne Sud</span></a></h1>
+      <div>
+       <img src="assets/img/logo.png"> 
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
+
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
@@ -38,7 +39,7 @@
             </ul>
           </li>
 
-          <li class="drop-down"><a href="#">Activités</a>
+          <li class="drop-down"><a href="#">Activités Enfants & Ados</a>
             <ul>
               <li><a href="TalmudTorah.php">Talmud Torah</a></li>
               <li><a href="GanIsrael.php">Gan Israël</a></li>     
@@ -54,9 +55,9 @@
             </ul>
           </li>
 
-           <li class=""><a href="Contact.php">Visite</a></li>
+           <li class=""><a href="Contact.php">Visiter une personne</a></li>
 
-          <li class="drop-down"><a href="#">Dons</a>
+          <li class="drop-down"><a href="#">Faire un don</a>
             <ul>
 
               <li><a href="Allodons.php">Allodons</a></li>
