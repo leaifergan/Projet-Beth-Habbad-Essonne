@@ -20,7 +20,7 @@
  			<div class="row">
  				<div class="col-3"></div>
  				<div class="col-lg-6">
- 					<img src="assets/img/Téfilin.jpg" class="figure-img img-fluid">
+ 					<img src="img/Téfilin.jpg" class="figure-img img-fluid">
  				</div>
  			</div>
 
