@@ -143,12 +143,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-etudiants">
             <div class="portfolio-wrap">
-              <img src="assets/img/Services/Téfiline.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/Téfiline.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Vérification Téfilin & Mézouzot </h4>
                 <p>Etudiants</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/Services/ExplicationTéfiline.jpeg"  class="venobox" title="Vérification Tefilin & Mézouzot"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/ExplicationTéfiline.jpeg"  class="venobox" title="Vérification Tefilin & Mézouzot"><i class="bx bx-plus"></i></a>
                   <a href="Contact.php" title="Nous Contacter"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -157,12 +157,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-fetesjuives">
             <div class="portfolio-wrap">
-              <img src="assets/img/Services/Méguila.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/Méguila.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Pourim: Lectures de Meguila & Distribution de Michloah Manot</h4>
                 <p>Fêtes Juives</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/Services/ExplicationMéguila.png" class="venobox" title="Voir Plus"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/ExplicationMéguila.png" class="venobox" title="Voir Plus"><i class="bx bx-plus"></i></a>
                   <a href="Contact.php" title="Nous Contacter"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -171,12 +171,12 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-fetesjuives">
             <div class="portfolio-wrap">
-              <img src="assets/img/Services/Shofar.png" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/Shofar.png" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Roch Hachana: Sonnerie Du Shofar à Domicile</h4>
                 <p>Fêtes Juives</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/Services/ExplicationShofar.png" data-gall="portfolioGallery" class="venobox" title="Voir Plus"><i class="bx bx-plus"></i></a>
+                  <a href="assets/img/portfolio/ExplicationShofar.png" data-gall="portfolioGallery" class="venobox" title="Voir Plus"><i class="bx bx-plus"></i></a>
                   <a href="Contact.php" title="Nous Contacter"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -185,7 +185,7 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-enfantAdos">
             <div class="portfolio-wrap">
-              <img src="assets/img/Services/Cteen.png" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/Cteen.png" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Cteen</h4>
                 <p>Activité</p>
