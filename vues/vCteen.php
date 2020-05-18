@@ -47,7 +47,7 @@
         <p> Rendez vous lundi 11 mai 2020 à  18h00 à la Synaguogue d'Evry</p>
      	</div>
       <div class="text-center">
-			 <img src="assets/img/Affiches/WhatsApp Image 2020-05-04 at 19.14.27.jpeg" class="rounded" height="650" alt="Erreur">
+			 <img src="assets/img/WhatsApp Image 2020-05-04 at 19.14.27.jpeg" class="rounded" height="650" alt="Erreur">
 			</div>
       <br>
 		</div>	
@@ -55,7 +55,7 @@
 		<div class="col-lg-6">
 			<!-- Image Tsivots Hachem -->
 			<br><br><br>
-			<img src="assets/img/image BethHabbad/Logo-cteen.png" align="right" height="200">
+			<img src="assets/img/Logo-cteen.png" align="right" height="200">
 			<B> Qu'est ce que Cteen?</B>
 			<p class="text-justify"><br> Le mouvement Cteen est déstiné à tous jeunes adolescants Juifs. D'origine américaine, le mouvement Cteen s'est répandu dans le monde entier jusqu'à Evry! Cteen te propose d'assister régulièrement aux activités qu'ils proposent : Patinoire Cteen géante, allumage sur la Seine pour Hannoucca, voyage organisé à New York... En à peine cinq ans, le mouvement CTeen attire des dizaines de milliers de jeunes Juifs ! <br><br> En savoir plus sur <a href="https://www.cteen.fr/">cteen.fr</a> <br> Mme Sebbag: <i class="contact-info mr-auto">06 51 79 53 07</i></p>
 			<B> Cteen, c'est aussi... </B> 
@@ -66,7 +66,7 @@
 		</div>
 	</div>
 </div>
-<img src="assets/img/slide/CteenOng.jpg">
+<img src="assets/img/CteenOng.jpg">
 
 
 </body>
