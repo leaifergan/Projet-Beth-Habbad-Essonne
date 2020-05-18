@@ -178,7 +178,7 @@
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/GanIsrael.png" class="img-fluid" alt="">
+              <img src="assets/img/GanIsrael.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Web 2</h4>
                 <p>Web</p>
@@ -191,7 +191,7 @@
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/Tsivot Hachem.jpg" class="img-fluid" alt="">
+              <img src="assets/img/TsivotHachem.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>App 3</h4>
                 <p>App</p>
